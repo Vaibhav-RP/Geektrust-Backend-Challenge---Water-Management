@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.entities.ApartmentTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-17T14:39:30" hostname="vaibhav-Lenovo-ideapad-320-15IKB" time="0.005">
+  <properties/>
+  <testcase name="testCheckingAllotWaterToCorporateAndBoreWellForThreeBhk()" classname="com.geektrust.backend.entities.ApartmentTest" time="0.001"/>
+  <testcase name="testCheckingAllotWaterToCorporateAndBoreWellForTwoBhk()" classname="com.geektrust.backend.entities.ApartmentTest" time="0.001"/>
+  <testcase name="testCheckingAddGuestToApartment()" classname="com.geektrust.backend.entities.ApartmentTest" time="0.0"/>
+  <testcase name="shouldCreateADefaultApartment()" classname="com.geektrust.backend.entities.ApartmentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

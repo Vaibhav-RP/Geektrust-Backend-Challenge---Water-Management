@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-17T14:39:30" hostname="vaibhav-Lenovo-ideapad-320-15IKB" time="0.035">
+  <properties/>
+  <testcase name="runTest1()" classname="com.geektrust.backend.AppTest" time="0.031"/>
+  <testcase name="runTest2()" classname="com.geektrust.backend.AppTest" time="0.001"/>
+  <testcase name="runTest3()" classname="com.geektrust.backend.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
