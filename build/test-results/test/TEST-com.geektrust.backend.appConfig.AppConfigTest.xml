@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.geektrust.backend.appConfig.AppConfigTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-17T14:39:30" hostname="vaibhav-Lenovo-ideapad-320-15IKB" time="0.002">
-  <properties/>
-  <testcase name="shouldReturnCommandInvokerViaGetCommandInvoker()" classname="com.geektrust.backend.appConfig.AppConfigTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
